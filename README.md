@@ -18,7 +18,7 @@ and jointly optimize the trajectory of UAV-PS, the device selection state, and t
 An algorithm based on alternating optimization (AO) is developed to solve the formulated problem, where successive convex approximation (SCA) and fractional programming (FP) are utilized for the convexification of the non-convex problem. 
 Numerical simulation results demonstrate the effectiveness of our UAV enabled hierarchical aggregation scheme compared with several existing baselines.
 
-![Model Scheme](./modelscheme.png)
+![Model Scheme](./scheme.png)
 
 ## Key Files
 
